@@ -5,4 +5,5 @@
 Feito isso, basta gerar o arquivo proto "named_you_defined_for.proto".pb.go.</p>
 <p>Execute os seguinte comando no seu terminal: 
 protoc --go-grpc_out=. "named_you_defined_for.proto".proto</p>
+
 ![output](https://github.com/ntferr/images/blob/main/golang-grpc/grpc_output.png)
